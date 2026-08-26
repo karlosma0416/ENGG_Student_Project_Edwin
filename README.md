@@ -1,2 +1,2 @@
 # ENGG_Student_Project_Edwin
-This is the repo that demonstrate student projects from Edwin's students.
+This is the repo that demonstrate course projects from Edwin's students.
